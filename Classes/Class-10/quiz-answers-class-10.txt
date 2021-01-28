@@ -1,0 +1,17 @@
+Answers:
+1) b  d
+2) b  a&b
+3) d  d
+4) b  a
+5) a  c
+6) a  wrong
+7) b  b
+8) a  a
+9) a  wrong keys printed
+10) b b
+11) c c 
+12) e e
+13) c c
+14) c c
+15) b 
+
